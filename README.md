@@ -12,7 +12,7 @@ Para rodar este projeto, você precisa iniciar tanto o **backend** quanto o **fr
 
 Em um terminal, navegue até a pasta do backend (`atviv/pl`) e execute o comando "java -jar pl.jar".
 
-```bash
+
 cd atviv/pl
 java -jar pl.jar  
 
